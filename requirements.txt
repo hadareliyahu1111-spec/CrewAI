@@ -1,0 +1,13 @@
+# ════════════════════════════════════════════════════════════════════════
+#  CodeSentinel AI — Python Dependencies
+#  Assignment 05 | Group: biu-he01
+# ════════════════════════════════════════════════════════════════════════
+
+# Core orchestration framework
+crewai>=0.51.0,<2.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# OpenAI SDK (used by crewai's default LLM backend)
+openai>=1.13.0
