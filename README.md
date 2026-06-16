@@ -1,4 +1,4 @@
-﻿# CodeSentinel AI
+# CodeSentinel AI
 ## Autonomous Market Intelligence & Content Strategy Pipeline
 
 > **Course**: Agent Orchestration (׳׳•׳¨׳§׳¡׳˜׳¨׳¦׳™׳” ׳©׳ ׳¡׳•׳›׳ ׳™׳) | **Assignment**: 05
