@@ -1,3 +1,4 @@
+<!-- direction: rtl -->
 # CodeSentinel AI
 ## Autonomous Market Intelligence & Content Strategy Pipeline
 
